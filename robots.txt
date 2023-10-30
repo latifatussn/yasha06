@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://medali4d.fairmlbook.org/sitemap.xml
